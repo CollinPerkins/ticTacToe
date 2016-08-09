@@ -1,0 +1,42 @@
+.x, .o {
+  font-weight: bold;
+  text-align: center;
+  font-size: 8em;
+}
+
+.board {
+  position: fixed;
+  top: 25%;
+  left: 25%;
+  height: 500px;
+  width: 500px;
+}
+
+.top-middle {
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+
+.middle-right {
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+
+.middle {
+  border: 2px solid black;
+}
+
+.middle-left {
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+
+.bottom-middle {
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+
+.toggle {
+  height: 160px;
+  width: 176px;
+}
